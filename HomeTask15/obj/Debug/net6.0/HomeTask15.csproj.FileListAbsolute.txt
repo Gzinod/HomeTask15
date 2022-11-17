@@ -1,0 +1,15 @@
+C:\Games\Study\homework\C#FirstHK\HomeTask15\obj\Debug\net6.0\HomeTask15.csproj.AssemblyReference.cache
+C:\Games\Study\homework\C#FirstHK\HomeTask15\obj\Debug\net6.0\HomeTask15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\Study\homework\C#FirstHK\HomeTask15\obj\Debug\net6.0\HomeTask15.AssemblyInfoInputs.cache
+C:\Games\Study\homework\C#FirstHK\HomeTask15\obj\Debug\net6.0\HomeTask15.AssemblyInfo.cs
+C:\Games\Study\homework\C#FirstHK\HomeTask15\obj\Debug\net6.0\HomeTask15.csproj.CoreCompileInputs.cache
+C:\Games\Study\homework\C#FirstHK\HomeTask15\bin\Debug\net6.0\HomeTask15.exe
+C:\Games\Study\homework\C#FirstHK\HomeTask15\bin\Debug\net6.0\HomeTask15.deps.json
+C:\Games\Study\homework\C#FirstHK\HomeTask15\bin\Debug\net6.0\HomeTask15.runtimeconfig.json
+C:\Games\Study\homework\C#FirstHK\HomeTask15\bin\Debug\net6.0\HomeTask15.dll
+C:\Games\Study\homework\C#FirstHK\HomeTask15\bin\Debug\net6.0\HomeTask15.pdb
+C:\Games\Study\homework\C#FirstHK\HomeTask15\obj\Debug\net6.0\HomeTask15.dll
+C:\Games\Study\homework\C#FirstHK\HomeTask15\obj\Debug\net6.0\refint\HomeTask15.dll
+C:\Games\Study\homework\C#FirstHK\HomeTask15\obj\Debug\net6.0\HomeTask15.pdb
+C:\Games\Study\homework\C#FirstHK\HomeTask15\obj\Debug\net6.0\HomeTask15.genruntimeconfig.cache
+C:\Games\Study\homework\C#FirstHK\HomeTask15\obj\Debug\net6.0\ref\HomeTask15.dll
